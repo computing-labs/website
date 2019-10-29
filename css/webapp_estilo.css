@@ -1,0 +1,10 @@
+#divwebapp{
+	clear:right;
+	border-left: 1px solid #94B84D;
+	
+	width:680px;
+	float:right;
+	margin:40px 0px 0px 0px;
+	/*box-shadow: 5px  5px 5px 5px #C2D699;*/
+	z-index:-2;
+}

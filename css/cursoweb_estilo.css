@@ -1,0 +1,31 @@
+#paragrafoweb{
+	float:right;
+	margin-top:0px;
+	margin-right:100px;
+}
+#linkw3c{
+	color:blue;
+	text-decoration:underline;
+}
+#linkw3c:hover{
+	color:red;
+
+}
+#linkw3c:visited{
+	color:magenta;
+	
+}
+#buldingweb{
+	margin-top:0px;
+	margin-left:200px;
+}
+#divconteudoweb{
+	clear:right;
+	border-left: 1px solid #94B84D;
+	
+	width:680px;
+	float:right;
+	margin:40px 0px 0px 0px;
+	/*box-shadow: 5px  5px 5px 5px #C2D699;*/
+	z-index:-2;
+}
